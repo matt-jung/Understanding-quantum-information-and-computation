@@ -1,4 +1,3 @@
-# qiskit-quantum-algorithms
 Qiskit simulations of algorithms covered in IBM's "Understanding Quantum Information and Computation" course:
 - Superdense Coding
 - CHSH Game
