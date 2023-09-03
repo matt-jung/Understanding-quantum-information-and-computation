@@ -1,2 +1,2 @@
 # qiskit-quantum-algorithms
-Simulations from the "Understanding quantum information and computation" Qiskit course
+Qiskit simulations from IBM's "Understanding quantum information and computation" course
