@@ -1,2 +1,7 @@
 # qiskit-quantum-algorithms
-Qiskit simulations from IBM's "Understanding quantum information and computation" course
+Qiskit simulations of algorithms covered in IBM's "Understanding Quantum Information and Computation" course:
+- Superdense Coding
+- CHSH Game
+- Deutsch and Deutsch-Jozsa Algorithms
+- Simon's Algorithm
+- Quantum Phase Estimation (QPE)
